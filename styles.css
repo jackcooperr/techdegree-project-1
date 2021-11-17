@@ -203,3 +203,8 @@ a.social:hover {
 .exp-text {
   text-align:left;
 }
+
+.exp-image {
+  border: black solid 4px;
+  border-radius: 50%
+}
